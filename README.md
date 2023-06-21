@@ -30,7 +30,7 @@ models_{method}
 │   └───parameter1={value1}_parameter2={value2}_ ...
 │       │
          --   model.hdf5
-
+```
 ## Testing/Plotting scripts
 
 ``plot_acc_vs_eps.py`` - create & save accuracy vs. perturbation plot, for a given attack, for a set of models
