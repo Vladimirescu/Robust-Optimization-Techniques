@@ -20,6 +20,17 @@ This repo contains [Tensorflow 2.+](https://www.tensorflow.org/) implementations
 
 ``train_LMT.py`` -- certified robustness training using Lipschitz Margin Training [LMT](https://proceedings.neurips.cc/paper/2018/hash/485843481a7edacbfce101ecb1e4d2a8-Abstract.html).
 
+## Trained model files 
+The trained model file for a dataset, method, and a specific configuration for that method, can be accessed from:
+```
+models_{method}  
+│
+└───{dataset}
+│   │
+│   └───parameter1={value1}_parameter2={value2}_ ...
+│       │
+         --   model.hdf5
+
 ## Testing/Plotting scripts
 
 ``plot_acc_vs_eps.py`` - create & save accuracy vs. perturbation plot, for a given attack, for a set of models
