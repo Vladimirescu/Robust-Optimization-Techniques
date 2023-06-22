@@ -1,0 +1,7 @@
+tensorflow>=2.4
+foolbox
+adversarial-robustness-toolbox
+sklearn
+tqdm
+gloro
+deel-lip
