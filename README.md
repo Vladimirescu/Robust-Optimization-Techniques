@@ -3,7 +3,16 @@ This repo contains [Tensorflow 2.+](https://www.tensorflow.org/) implementations
 
 All experiments are part of my Masters Dissertation thesis entitled ***Robust training techniques against adversarial attacks on image classification***, which can be found at [this link](http://dx.doi.org/10.13140/RG.2.2.21712.69125).
 
-![plot](https://github.com/Vladimirescu/Robust-Optimization-Techniques/tree/main/images/mnist/comparison_methods.png?raw=true)
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1600" alt="drawing MNIST" src="images/mnist/comparison_methods.png">MNIST|<img width="1600" alt="drawing FMNIST" src="images/fmnist/comparison_methods.png">FMNIST|<img width="1600" alt="drawing CIFAR-10" src="images/cifar/comparison_methods.png">CIFAR-10| 
+|<img width="1600" alt="drawing CelebA" src="images/celeba/comparison_methods.png">CelebA|<img width="1600" alt="drawing EuroSAT" src="images/eurosat/comparison_methods.png">EuroSAT|<img width="1600" alt="drawing BelgiumTS" src="images/belgium/comparison_methods.png"> BelgiumTS| 
+
+<p align="center">
+      <img width="800" alt="drawing Sign" src="images/sign2 (2)-1.png">   
+</p>
+
+
 
 ## Training scripts
 ``train_AT.py`` - Adversarial Training, Ensemble Adversarial Training, and Baseline model training
