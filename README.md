@@ -5,8 +5,10 @@ All experiments are part of my Masters Dissertation thesis entitled ***Robust tr
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1600" alt="drawing MNIST" src="images/mnist/comparison_methods.png">MNIST|<img width="1600" alt="drawing FMNIST" src="images/fmnist/comparison_methods.png">FMNIST|<img width="1600" alt="drawing CIFAR-10" src="images/cifar/comparison_methods.png">CIFAR-10| 
-|<img width="1600" alt="drawing CelebA" src="images/celeba/comparison_methods.png">CelebA|<img width="1600" alt="drawing EuroSAT" src="images/eurosat/comparison_methods.png">EuroSAT|<img width="1600" alt="drawing BelgiumTS" src="images/belgium/comparison_methods.png"> BelgiumTS| 
+|<img width="1600" alt="drawing MNIST" src="images/mnist/comparison_methods.png">|<img width="1600" alt="drawing FMNIST" src="images/fmnist/comparison_methods.png">|<img width="1600" alt="drawing CIFAR-10" src="images/cifar/comparison_methods.png">| 
+|MNIST|FMNIST|CIFAR-10|
+|<img width="1600" alt="drawing CelebA" src="images/celeba/comparison_methods.png">|<img width="1600" alt="drawing EuroSAT" src="images/eurosat/comparison_methods.png">|<img width="1600" alt="drawing BelgiumTS" src="images/belgium/comparison_methods.png">| 
+|CelebA|EuroSAT|BelgiumTS|
 
 <p align="center">
       <img width="800" alt="drawing Sign" src="images/sign2 (2)-1.png">   
